@@ -33,4 +33,3 @@ permalink: /docs/future/
 
 *Built with Claude (Anthropic) · May 2026*
 
----
