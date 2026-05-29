@@ -1,3 +1,8 @@
 title: "Gap to Compliant — Public Documentation"
 description: "EU MDR / IVDR compliance framework. Built with Claude."
 theme: minima
+header_pages:
+  - docs/problem.md
+  - docs/architecture.md
+  - docs/lessons.md
+  - docs/future.md
