@@ -20,4 +20,5 @@ Management reviews under ISO 13485:2016 Clause 5.6 require documented compliance
 
 **4. No audit trail.**
 Any change to a compliance record — a status update, a revised deadline, a new gap item — should be attributable, timestamped, and traceable. Spreadsheet environments offer none of this.
+
 ---
