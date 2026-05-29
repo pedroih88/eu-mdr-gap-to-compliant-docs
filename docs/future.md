@@ -32,4 +32,5 @@ permalink: /docs/future/
 *This document is provided for public reference. It describes the design rationale, tooling, and development experience behind the Gap to Compliant framework. It does not constitute regulatory advice. The tool and all companion documents require review, customisation, and formal QA approval before use in a regulated environment.*
 
 *Built with Claude (Anthropic) · May 2026*
+
 ---
