@@ -43,10 +43,12 @@ The prompt-to-record flow is: **Prompt → AI draft → Human verification (CV-0
 
 | Document | Reference | Purpose |
 |----------|-----------|---------|
-| EU MDR / IVDR Gap Matrix (Full Version) | — | Primary tool with edit capability, add-item workflow, and full field-level audit trail |
+| UNDER CONSTRUCTION! - EU MDR / IVDR Gap Matrix (Full Version) | — | Primary tool with edit capability, add-item workflow, and full field-level audit trail |
 | EU MDR / IVDR Gap Matrix (Lite Version) | — | Reduced feature set for demo, evaluation, and procurement review |
+| EU MDR / IVDR Gap Matrix — Lite Version: User Work Instruction | WI-LITE-001 | Master operating instruction for authorised end users |
 | Validation Plan & Test Protocols | VAL-PLAN-001 | GAMP 5 / ISO 13485:2016 Cl. 4.1.6 validation framework; 30 test cases |
 | AI Content Verification Protocol | VAL-ADD-A-001 | Three-layer human review protocol for AI-generated regulatory content |
+| OQ Test Protocol — Progress Export/Import and Print/PDF Features | VAL-ADD-B-001 | OQ for Progress Export/Import and Print/PDF features | 
 | Demo Script | — | Six-beat, 3-minute screen recording script with narration cues |
 | Demo Setup Guide | — | Step-by-step data setup for a live and credible demo run |
 
