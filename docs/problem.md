@@ -19,6 +19,6 @@ The MDR/IVDR transition has seen multiple extensions, phased deadlines, and Comm
 Management reviews under ISO 13485:2016 Clause 5.6 require documented compliance reporting. Building that from raw gap data, on deadline, without a dedicated tool, is a recurring and expensive problem.
 
 **4. No audit trail.**
-Any change to a compliance record — a status update, a revised deadline, a new gap item — should be attributable, timestamped, and traceable. Spreadsheet environments offer none of this.
+Any change to a compliance record — a status update, a revised deadline, a new gap item — should be attributable, timestamped, and traceable. Spreadsheet environments offer none of this.Small and mid-size medtech companies and regulatory consulting firms are navigating the most significant regulatory transition in EU medical device history — with lean teams, limited budgets, and deadlines that cannot move.
 
 ---
