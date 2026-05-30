@@ -17,7 +17,7 @@ Early prototypes treated the change log as a reporting feature. It is not — it
 
 ### 4. A session-only architecture has real data integrity limitations.
 
-The tool runs in the browser with no persistent server-side storage. Session state — status changes, tracker entries — is not automatically saved. Organisations using the tool in a regulated context must define a procedure for capturing or exporting session state at the end of each use session to satisfy ALCOA+ principles (Attributable, Legible, Contemporaneous, Original, Accurate). This was documented in the validation plan but was underappreciated in early design. A clearer export-to-record workflow would have been designed earlier.
+The tool runs in the browser with no persistent server-side storage. Session state — status changes, tracker entries — is not automatically saved. Organisations using the tool in a regulated context must define a procedure for capturing or exporting session state at the end of each use session to satisfy ALCOA+ principles (Attributable, Legible, Contemporaneous, Original, Accurate). This was documented in the validation plan but was underappreciated in early design. This has since been addressed: the Lite version now provides an Export/Import (overlay) workflow and Print/PDF outputs for retaining and re-loading session state — see the changelog below.
 
 ### 5. Validation documentation is a first-class deliverable, not an afterthought.
 
