@@ -3,9 +3,11 @@ layout: page
 title: "Future Improvements"
 permalink: /docs/future/
 ---
-### Near-term (next version)
+### Recently shipped (Lite version)
 
-**Persistent state via export/import.** The session-only architecture's most significant practical limitation is that work is lost when the browser is closed. A defined export-to-JSON / import-from-JSON workflow — or a structured PDF export of the current state — would allow teams to maintain continuity across sessions without introducing server infrastructure.
+**Persistent state via export/import — delivered.** The session-only architecture's most significant practical limitation was that work was lost when the browser was closed. The Lite version now includes a defined export-to-JSON / import-from-JSON workflow: progress (item statuses and Action Tracker entries) is exported as a lightweight overlay and re-imported by item ID, layered on top of the current regulatory baseline, with baseline-version detection and append-only audit logging of each import. This allows teams to maintain continuity across sessions and machines without any server infrastructure. A Print/PDF capability (whole-report and per-section) was added alongside it for point-in-time records. Both features are operationally qualified in VAL-ADD-B-001 and documented in WI-LITE-001 Annex A and Annex B.
+
+### Near-term (next version)
 
 **Expanded gap item coverage.** The current 55-item baseline covers the highest-frequency compliance obligations for Class IIa/IIb medical devices. Coverage gaps remain in: Article 120 legacy device transitional provisions with device-specific nuance, SaMD (Software as a Medical Device) under MDCG 2019-11, Class III device-specific requirements, and IVD-specific EUDAMED obligations for Class C and D devices.
 
@@ -32,4 +34,3 @@ permalink: /docs/future/
 *This document is provided for public reference. It describes the design rationale, tooling, and development experience behind the Gap to Compliant framework. It does not constitute regulatory advice. The tool and all companion documents require review, customisation, and formal QA approval before use in a regulated environment.*
 
 *Built with Claude (Anthropic) · May 2026*
-
