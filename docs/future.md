@@ -13,7 +13,7 @@ permalink: /docs/future/
 
 **Regulatory update automation.** The Regulatory Updates log is currently maintained manually. A structured prompt-to-log workflow — or an integration with EUR-Lex change notifications — would reduce the risk of regulatory updates being missed between periodic reviews.
 
-**Tailored Output.** Deploy the abilty for end users to customize and tailor outputs of the gap (e.g., Regulatory Timeline, MDR and/or IVDR, Area, Detailed Evidence Requirements). End users can be (i) Consultants, (ii) Med Techs OEM; (iii) ODMS
+**Tailored Output.** Deploy the abilty for end users to customize and tailor outputs of the assessment (e.g., Regulatory Timeline, MDR and/or IVDR, Area, Detailed Evidence Requirements). End users can be (i) Consultants, (ii) Med Techs OEM; (iii) ODMS
 
 ### Medium-term
 
